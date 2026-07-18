@@ -8,7 +8,7 @@ Paul Nation 的《What do you need to know to learn a foreign language?》（学
 
 本仓库提供了新西兰惠灵顿维多利亚大学 Paul Nation 教授关于外语学习指南的中文翻译。
 
-- **原版阅读：** [What do you need to know to learn a foreign language? (PDF)](https://www.wgtn.ac.nz/lals/resources/paul-nations-resources/paul-nationspublications/publications/documents/foreign-language_1125.pdf)
+- **原版阅读：** [What do you need to know to learn a foreign language? (PDF)](https://www.wgtn.ac.nz/lals/resources/paul-nations-resources/paul-nations-publications/publications/documents/foreign-language_1125.pdf)
 - **翻译方法：** 关于本材料的翻译过程与思路，请参考我的博文：[如何翻译自用的英语书籍](https://ramen-curator.blogspot.com/2026/04/blog-post_29.html)。
 
 ## 仓库内容
